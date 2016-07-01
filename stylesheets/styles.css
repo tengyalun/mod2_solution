@@ -13,6 +13,7 @@ div{
   width: 80%;
   display:block;
   height: 140px;
+  float:right;
   font-family: Helvetica;
   color: white;
 }
